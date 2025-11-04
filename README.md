@@ -64,6 +64,7 @@ python 1.train_pretrain.py
 ```
 
 ### Eval
+model checkpoint: [ThinkCLIP](https://huggingface.co/royyu/ThinkCLIP/tree/main)
 ```bash
 python 2.eval_clip.py
 ```
