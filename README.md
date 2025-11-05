@@ -85,11 +85,11 @@ text = [
 ]
 
 pred:
-    Happy New Year: 0.11%
-    China:          0.05%
-    red:            1.68%
-    envelope:       6.03%
-    red envelope:   92.13%
+    Happy New Year: 1.71%
+    China:          0.12%
+    red:            9.02%
+    envelope:       43.02%
+    red envelope:   46.13%
 ```
 
 <img src="pants.jpg" alt="red envelope" width = "320px">
@@ -106,13 +106,13 @@ text = [
 ]
 
 pred:
-    pants:              2.47%
+    pants:              1.18%
     plane:              0.00%
     car:                0.00%
-    blue shirt:         0.81%
+    blue shirt:         1.42%
     shoe:               0.00%
-    Light blue pants:   65.72%
-    Dark blue pants:    31.00%
+    Light blue pants:   69.51%
+    Dark blue pants:    27.88%
 ```
 
 <img src="girl.jpg" alt="red envelope" width = "320px">
@@ -128,12 +128,12 @@ text = [
 ]
 
 pred:
-    girl playing mahjong:  88.30%
-    boy playing mahjong:   11.42%
-    girl:                  0.17%
-    mahjong:               0.10%
+    girl playing mahjong:  80.13%
+    boy playing mahjong:   19.68%
+    girl:                  0.10%
+    mahjong:               0.04%
     green mahjong:         0.00%
-    playing mahjong:       0.01%
+    playing mahjong:       0.06%
 ```
 
 
