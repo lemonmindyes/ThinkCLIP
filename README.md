@@ -70,7 +70,7 @@ python 2.eval_clip.py
 ```
 
 ## Loss Curve
-<img src="loss_curve.jpeg" alt="red envelope">
+<img src="loss_curve.jpg" alt="red envelope">
 
 ## Evaluation
 <img src="red_envelope.jpg" alt="red envelope" width = "320px">
